@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-#include<math.h>
+#include<menu.h>
 using namespace std;
 void printMissingElement(vector<int>&arr){
     for(int i = 0;i<arr.size();i++){
