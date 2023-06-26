@@ -3,7 +3,6 @@
 #include<math.h>
 using namespace std;
 void printMissingElement(vector<int>&arr){
-    // wow
     for(int i = 0;i<arr.size();i++){
         int index = abs(arr[i]);
         if(arr[index - 1] > 0){
