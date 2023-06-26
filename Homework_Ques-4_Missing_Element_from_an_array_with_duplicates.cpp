@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-#include<math.h>
+//nj kfj dkj vfkj vf
 using namespace std;
 void printMissingElement(vector<int>&arr){
     // wow
