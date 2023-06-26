@@ -2,6 +2,8 @@
 using namespace std;
 void columnWisePrint(int arr[][4],int rows,int cols)
 {
+    //Hello
+    
     // Simply do column wise traversal
     for(int j = 0;j<cols;j++)// Initially sum = 0 for each new column
     {
